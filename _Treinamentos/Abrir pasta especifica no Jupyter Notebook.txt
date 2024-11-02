@@ -1,0 +1,3 @@
+Abrir Anaconda Prompt e executar um dos seguintes comandos:
+jupyter notebook --notebook-dir="C:\git\RHE.Developers\marcio-justo\_Treinamentos"
+jupyter notebook --notebook-dir="C:\github\marciorjusto\DataScience\_Treinamentos"
